@@ -17,6 +17,7 @@ print("Utilice f3 para que el programa lea el texto que tengas copiado \n"
 keyboard.add_hotkey(hotkey, lambda: hotkeyAction())
 
 def hotkeyAction():
+    keyboard.press_and_release('ctrl+c')
     readText(ClipboardGetter.get_clipboard_text())
 
 
