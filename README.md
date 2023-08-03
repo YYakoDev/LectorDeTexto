@@ -9,7 +9,8 @@ Al presionar la tecla F3 (function key) el programa lee el texto que tengas copi
 Al presionar la tecla F10 el programa se cierra
 
 ## Instalacion
-Descarga el archivo zip, luego extraelo y el ejecutable se encuentra en la carpeta dist
+Descarga el archivo zip => [https://drive.google.com/file/d/1LDPYDnhHzqrpFxjt_OXC0xAkTVVvcJPV/view?usp=sharing](link.com), 
+luego extraelo y el ejecutable se encuentra en la carpeta **dist**
 
 
 ## Codigo Fuente
