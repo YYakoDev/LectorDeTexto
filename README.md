@@ -9,7 +9,7 @@ Al presionar la tecla F3 (function key) el programa copia el texto que tengas se
 Al presionar la tecla F10 el programa se cierra
 
 ## Instalacion
-Descarga el archivo zip => https://drive.google.com/file/d/186yp4aM1BVoIlMaJVQmwpUt9CxZ7mnZd/view?usp=drive_link, 
+Descarga el archivo zip => https://drive.google.com/file/d/1Q-CnNHJo302MQ114fxMexQVn5vbvkl25/view?usp=sharing, 
 luego extraelo y el ejecutable se encuentra en la carpeta **dist**
 
 
