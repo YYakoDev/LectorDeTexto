@@ -14,7 +14,7 @@ luego extraelo y el ejecutable se encuentra en la carpeta **dist**
 
 
 ## Codigo Fuente
-Para la correcta ejecucion del codigo deberas installar las cientes librerias de python:
+Para la correcta ejecucion del codigo deberas installar las siguientes librerias de python:
  * keyboard
  * gTTs
  * playsound
