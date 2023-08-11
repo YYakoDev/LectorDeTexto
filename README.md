@@ -5,7 +5,7 @@ Fue realizado con el proposito de asistir a personas que tengan algun problema v
 Tambien para aquellos que no tengas ganas de leer un documento sino escucharlo.
 
 ## Como usarlo
-Al presionar la tecla F3 (function key) el programa lee el texto que tengas copiado en el portapapeles
+Al presionar la tecla F3 (function key) el programa copia el texto que tengas seleccionado y luego lo lee en voz alta
 Al presionar la tecla F10 el programa se cierra
 
 ## Instalacion
