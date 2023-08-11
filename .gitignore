@@ -3,4 +3,5 @@ build/*
 dist/
 sounds/
 __pycache__/
-appicon.png
+AppIcon.ico
+AppIcon.png
