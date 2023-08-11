@@ -1,0 +1,5 @@
+build/
+dist/
+sounds/
+__pycache__/
+appicon.png
