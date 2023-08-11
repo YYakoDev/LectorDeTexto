@@ -3,9 +3,10 @@ import os
 from playsound import playsound
 
 soundsPath = "sounds/"
+filePath = f"{soundsPath}audio.mp3"
 
 
-def check_file_exists(path : str):
+def check_file_exists(path : str) -> bool:
     return os.path.exists(path)
 
 def create_dir(path: str):
@@ -16,7 +17,7 @@ def readText(textToRead: str):
         #textToRead = "No hay texto para leer"
         return
     #text_to_read.replace()
-    filePath = f"{soundsPath}audio.mp3"
+    #filePath = f"{soundsPath}audio.mp3"
     
     if not check_file_exists(soundsPath):
         create_dir(soundsPath)
